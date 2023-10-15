@@ -16,5 +16,7 @@
   "type": "replugged-theme",
   "main": "src/main.css",
   "source": "https://github.com/Bitslayn/Dis-Cons",
-  "image": ["https://raw.githubusercontent.com/Bitslayn/Dis-Cons/main/dis-cons.png"]
+  "image": [
+    "https://raw.githubusercontent.com/Bitslayn/Dis-Cons/main/dis-cons.png"
+  ]
 }
