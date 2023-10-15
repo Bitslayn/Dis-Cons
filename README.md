@@ -1,7 +1,8 @@
-# Replugged theme template
+# Dis-Cons
 
-See the [theme development guide](https://guide.replugged.dev/docs/themes/getting-started) for more
-information on using this template.
+Just a little Replugged theme which adds icons to context menus which don't have them
+
+![Theme Image](https://raw.githubusercontent.com/Bitslayn/Dis-Cons/main/dis-cons.png)
 
 # License
 
