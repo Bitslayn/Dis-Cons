@@ -1,5 +1,5 @@
 {
-  "id": "btw.bitslayn.discons",
+  "id": "btw.bitslayn.discordicons",
   "name": "Dis-Cons",
   "description": "Add icons to context menus which don't have them",
   "author": {
@@ -7,10 +7,10 @@
     "discordID": "372268045927972864",
     "github": "Dis-Cons"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "updater": {
-    "type": "github",
-    "id": "Bitslayn/Dis-Cons"
+    "type": "store",
+    "id": "btw.bitslayn.discordicons"
   },
   "license": "MIT",
   "type": "replugged-theme",
