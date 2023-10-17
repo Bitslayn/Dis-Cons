@@ -7,7 +7,7 @@
     "discordID": "372268045927972864",
     "github": "Dis-Cons"
   },
-  "version": "1.0.1",
+  "version": "1.0.2",
   "updater": {
     "type": "store",
     "id": "btw.bitslayn.discordicons"
@@ -16,5 +16,7 @@
   "type": "replugged-theme",
   "main": "src/main.scss",
   "source": "https://github.com/Bitslayn/Dis-Cons",
-  "image": ["https://raw.githubusercontent.com/Bitslayn/Dis-Cons/main/dis-cons.png"]
+  "image": [
+    "https://raw.githubusercontent.com/Bitslayn/Dis-Cons/main/dis-cons.png"
+  ]
 }
