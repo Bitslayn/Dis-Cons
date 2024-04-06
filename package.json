@@ -1,11 +1,12 @@
 {
-  "name": "theme-template",
+  "name": "discordicons",
   "version": "1.0.13",
-  "description": "A theme template",
+  "description": "Add icons to context menus which don't have them",
   "engines": {
     "node": ">=18.0.0",
     "pnpm": ">=8.0.0"
   },
+  "private": true,
   "scripts": {
     "build": "replugged build theme",
     "watch": "replugged build theme --watch",
@@ -15,11 +16,10 @@
     "lint:fix": "prettier ./src --write"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Bitslayn",
+  "license": "MIT",
   "devDependencies": {
-    "@types/node": "^18.18.5",
-    "prettier": "^2.8.8",
-    "replugged": "^4.7.4"
+    "prettier": "^3.2.5",
+    "replugged": "^4.7.9"
   }
 }
