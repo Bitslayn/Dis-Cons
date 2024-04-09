@@ -5,7 +5,7 @@
   "author": {
     "name": "Bitslayn",
     "discordID": "372268045927972864",
-    "github": "Dis-Cons"
+    "github": "Bitslayn"
   },
   "version": "1.0.13",
   "updater": {
@@ -16,7 +16,5 @@
   "type": "replugged-theme",
   "main": "src/main.scss",
   "source": "https://github.com/Bitslayn/Dis-Cons",
-  "image": [
-    "https://raw.githubusercontent.com/Bitslayn/Dis-Cons/main/dis-cons.png"
-  ]
+  "image": "https://raw.githubusercontent.com/Bitslayn/Dis-Cons/main/dis-cons.png"
 }
