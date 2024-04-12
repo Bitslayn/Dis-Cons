@@ -1,6 +1,6 @@
 {
   "name": "discordicons",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "description": "Add icons to context menus which don't have them",
   "engines": {
     "node": ">=18.0.0",
